@@ -1,16 +1,18 @@
-### Hi there 👋
+<p>  
+  <a href="https://www.linkedin.com/in/tegardanardanalokananta/" target="_blank">
+    <img src="https://img.shields.io/badge/tegar%20danardana%20lokananta-d2b270?style=for-the-badge&logo=Linkedin&logoColor=d2b270&labelColor=1f2430&color=1f2430">
+  </a>
+</p>
 
-<!--
-**BangTeg/BangTeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <a href="https://github.com/BangTeg">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=BangTeg&count_private=true&hide=issues&show_icons=true&theme=ayu-mirage" />
+  </a>
+</p>
+<!-- <p>  
+  <a href="https://wakatime.com/@bangteg">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bangteg&theme=ayu-mirage&custom_title=Tegar%20Danardana%20Lokananta%27s%20Wakatime%20Stats&layout=compact&range=last_7_days&langs_count=10" alt="wakatime stats"  />
+  </a>
+</p> -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBangTeg&label=Visitor&labelColor=%231f2430&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FBangTeg)
