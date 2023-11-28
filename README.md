@@ -9,10 +9,10 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=BangTeg&count_private=true&hide=issues&show_icons=true&theme=ayu-mirage" />
   </a>
 </p>
-<!-- <p>  
+<p>  
   <a href="https://wakatime.com/@bangteg">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bangteg&theme=ayu-mirage&custom_title=Tegar%20Danardana%20Lokananta%27s%20Wakatime%20Stats&layout=compact&range=last_7_days&langs_count=10" alt="wakatime stats"  />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bangteg&theme=ayu-mirage&custom_title=Tegar%27s%20Wakatime%20Stats&layout=compact&range=last_7_days&langs_count=10" alt="wakatime stats"  />
   </a>
-</p> -->
+</p>
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBangTeg&label=Visitor&labelColor=%231f2430&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FBangTeg)
