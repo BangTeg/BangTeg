@@ -6,7 +6,7 @@
 </h1>
 
 <p>
-  <a href="https://www.linkedin.com/in/tegardanardanalokananta/" target="_blank">
+  <a href="https://www.linkedin.com/in/tegardanardana/" target="_blank">
     <img src="https://img.shields.io/badge/tegar%20danardana%20lokananta-d2b270?style=for-the-badge&logo=Linkedin&logoColor=d2b270&labelColor=1f2430&color=1f2430">
   </a>
 </p>
