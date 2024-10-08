@@ -24,6 +24,6 @@
 </p>
 <p>  
   <a href="https://wakatime.com/@bangteg">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bangteg&theme=ayu-mirage&custom_title=Tegar%27s%20Wakatime%20Stats&layout=compact&range=last_7_days&langs_count=10" alt="wakatime stats"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangteg&theme=ayu-mirage&custom_title=BangTeg%27s%20Top%20Languages&layout=compact&langs_count=10" alt="wakatime stats"  />
   </a>
 </p>
